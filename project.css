@@ -1,0 +1,288 @@
+body{
+	background-color:#ffdfd3;
+}
+
+.box-1{
+	background-color:#fffee9;
+	color:#f26b8a;
+	
+	font:normal 25px Courier New,Courier,monospace;
+	text-transform:uppercase;
+	
+	border:10px pink solid;
+	border-style:dotted;
+	
+	width:95%;
+	margin:auto;
+	
+	text-align:center;
+}
+
+.box-2{
+	background-color:#fffee9;
+	color:#f26b8a;
+	
+	font:normal 16px Comic Sans MS,cursive,sans-serif;
+	
+	border:3px pink solid;
+	border-radius:15px;
+	
+	width:80%;
+	margin-top:20px;
+	margin-right:auto;
+	margin-left:auto;
+	
+	padding:10px;
+}
+
+.box-3{
+	background-color:#fffee9;
+	color:#f26b8a;
+	
+	font:normal 16px Comic Sans MS, cursive, sans-serif;
+	
+	border:3px pink solid;
+	border-radius:15px;
+	
+	width:80%;
+	margin-top:20px;
+	margin-right:auto;
+	margin-left:auto;
+	
+	padding:10px;
+}
+
+.box-4{
+	background-color:#fffee9;
+	color:#f26b8a;
+	
+	font:normal 16px Comic Sans MS, cursive, sans-serif;
+	
+	border:3px pink solid;
+	border-radius:15px;
+	
+	width:80%;
+	margin-top:20px;
+	margin-right:auto;
+	margin-left:auto;
+	
+	padding:10px;
+}
+
+.box-5{
+	background-color:#fffee9;
+	color:#f26b8a;
+	
+	font:normal 16px Comic Sans MS, cursive, sans-serif;
+	
+	border:3px pink solid;
+	border-radius:15px;
+	
+	width:80%;
+	margin-top:20px;
+	margin-right:auto;
+	margin-left:auto;
+	
+	padding:10px;
+}
+
+.topnav{
+	background-color:#fffee9;
+	overflow:hidden;
+	
+	border:3px pink solid;
+	border-style:solid;
+}
+
+.topnav a{
+	float:left;
+	color:#a87ff1;
+	text-align:center;
+	padding:14px 16px;
+	font-size:20px;
+}
+	
+.box-7{
+	background-color:#fffee9;
+	color:#f26b8a;
+	
+	font:normal 25px Courier New,Courier,monospace;
+	text-transform:uppercase;
+	
+	border:10px pink solid;
+	border-style:dotted;
+	
+	width:50%;
+	margin:auto;
+	
+	text-align:center;
+}
+
+.box-8{
+	background-color:#fffee9;
+	color:#f26b8a;
+	
+	font:normal 25px Courier New,Courier,monospace;
+	text-transform:uppercase;
+	
+	border:10px pink solid;
+	border-style:dotted;
+	
+	width:50%;
+	margin:auto;
+	
+	text-align:center;
+}
+
+.box-9{
+	background-color:#fffee9;
+	color:#f26b8a;
+	
+	font:normal 25px Courier New,Courier,monospace;
+	text-transform:uppercase;
+	
+	border:10px pink solid;
+	border-style:dotted;
+	
+	width:50%;
+	margin:auto;
+	
+	text-align:center;
+}
+
+.box-10{
+	background-color:#fffee9;
+	color:#f26b8a;
+	
+	font:normal 25px Courier New,Courier,monospace;
+	text-transform:uppercase;
+	
+	border:10px pink solid;
+	border-style:dotted;
+	
+	width:50%;
+	margin:auto;
+	
+	text-align:center;
+}
+
+.box-11{
+	background-color:#fffee9;
+	color:#f26b8a;
+	
+	font:normal 16px Comic Sans MS, cursive, sans-serif;
+	
+	border:3px pink solid;
+	border-radius:15px;
+	
+	width:80%;
+	margin-top:20px;
+	margin-right:auto;
+	margin-left:auto;
+	
+	padding:10px;
+}
+
+.box-12{
+	background-color:#fffee9;
+	color:#f26b8a;
+	
+	font:normal 16px Comic Sans MS, cursive, sans-serif;
+	
+	border:3px pink solid;
+	border-radius:15px;
+	
+	width:80%;
+	margin-top:20px;
+	margin-right:auto;
+	margin-left:auto;
+	
+	padding:10px;
+}
+
+.box-13{
+	background-color:#fffee9;
+	color:#f26b8a;
+	
+	font:normal 16px Comic Sans MS, cursive, sans-serif;
+	
+	border:3px pink solid;
+	border-radius:15px;
+	
+	width:80%;
+	margin-top:20px;
+	margin-right:auto;
+	margin-left:auto;
+	
+	padding:10px;
+}
+
+.box-14{
+	background-color:#fffee9;
+	color:#f26b8a;
+	
+	font:normal 16px Comic Sans MS, cursive, sans-serif;
+	
+	border:3px pink solid;
+	border-radius:15px;
+	
+	width:80%;
+	margin-top:20px;
+	margin-right:auto;
+	margin-left:auto;
+	
+	padding:10px;
+}
+
+.box-15{
+	background-color:#fffee9;
+	color:#f26b8a;
+	
+	font:normal 16px Comic Sans MS, cursive, sans-serif;
+	
+	border:3px pink solid;
+	border-radius:15px;
+	
+	width:80%;
+	margin-top:20px;
+	margin-right:auto;
+	margin-left:auto;
+	
+	padding:10px;
+}
+
+.box-16{
+	background-color:#fffee9;
+	color:#f26b8a;
+	
+	font:normal 16px Comic Sans MS, cursive, sans-serif;
+	
+	border:3px pink solid;
+	border-radius:15px;
+	
+	width:80%;
+	margin-top:20px;
+	margin-right:auto;
+	margin-left:auto;
+	
+	padding:10px;
+}
+
+.box-17{
+	background-color:#fffee9;
+	color:#f26b8a;
+	
+	font:normal 16px Comic Sans MS, cursive, sans-serif;
+	
+	border:3px pink solid;
+	border-radius:15px;
+	
+	width:80%;
+	margin-top:20px;
+	margin-right:auto;
+	margin-left:auto;
+	
+	padding:10px;
+}
+
+
